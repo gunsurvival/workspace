@@ -1,9 +1,9 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/gunsurvival/client
 [submodule "core"]
 	path = core
-	url = ./core
+	url = https://github.com/gunsurvival//core
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/gunsurvival//server
