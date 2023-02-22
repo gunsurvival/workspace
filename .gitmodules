@@ -3,7 +3,7 @@
 	url = https://github.com/gunsurvival/client
 [submodule "core"]
 	path = core
-	url = https://github.com/gunsurvival//core
+	url = https://github.com/gunsurvival/core
 [submodule "server"]
 	path = server
-	url = https://github.com/gunsurvival//server
+	url = https://github.com/gunsurvival/server
